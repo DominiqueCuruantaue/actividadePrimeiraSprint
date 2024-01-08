@@ -17,10 +17,15 @@ um programa que permite ao usuario inserir um número com 4 dígitos no minimo, 
 3. Segue-se uma instrução else que contem uma sub instrução onde: senão obedecer a primeira condição o usuário inserir menos de quatro numeros ou cracteres o conteudo hmtl retornara uma mensagem avisando para que o proximo numero seja maior que o anterior.
 Depois temos um senão que retorna uma mensagem que diz que o numero nao é válido o usuario deve inserir um numero valido com pelo menos 4 digitos, esta instrução so ira retornar se o usuario nigitar não um numero(NaN) com quatro ou mais numeros;
 </p>
-<h2>Diculdades</h2>
+<h2>Dificuldades</h2>
 <p>
 A primeira dificuldade que enfrentei foi em como carregar as classes para passas as variaveis no javascript. tive dificuldades em como combinar as classes do hmtl no js. Durante a aula do curso de js pude ver um elemento mais facil e simples que localiza elementos no arquvo html, me refiro da instrucao "document.querySelector('')" no inicio tentei usar o "document.getElementById()" e nunca me retornou uma saida no conteudo html, ao longo das pesquisas fui percebendo que o argumento document.grtElementById identifica apenas id no conteudo html,  tentei usar novamente este elemento com classeName e mesmo assim nao retornou uma saida. Depois te tanto tempo me recordei do document.querySelector e deu tudo certo.
 
 A estrutura de condição condicao tambem deu um pouco de trabalho mas não foi algo que nao resolvesse, quanto mais resolvia um passo eu conseguia ter a visão do passo a seguir.
 outra coisa que tambem foi dificil é intender como eu faria para que o usuario quando inserisse algo que nao seja um numero retornasse a condição nao valida.
 </p>
+
+<h3>commit 1: alteração do conteudo DOM html</h3>
+<h3>commit 2: alteração das intrucoes da funcao em javascript</h3>
+<h3>commit 3: alteração do estilo do programa usando css</h3>
+<h3>commit 4: digitação do aquivo readme em formato markdown</h3>
