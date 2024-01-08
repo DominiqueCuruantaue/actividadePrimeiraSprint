@@ -29,5 +29,5 @@ outra coisa que tambem foi dificil é intender como eu faria para que o usuario 
 <h3>commit 2: alteração das intrucoes da funcao em javascript</h3>
 <h3>commit 3: alteração do estilo do programa usando css</h3>
 <h3>commit 4: digitação do aquivo readme em formato markdown</h3>
-<h3>alteracao de rerros ortograficos no arquivo readme.dm</h3>
-<h3>adicionar o tipo de valor a ser recebido no input</h3>
+<h3>commit 5: alteracao de rerros ortograficos no arquivo readme.dm</h3>
+<h3>commit 6: adicionar o tipo de valor a ser recebido no input</h3>
